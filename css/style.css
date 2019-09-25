@@ -193,9 +193,10 @@ footer {
     bottom: 20px;
     padding: 15px;
     width: 100%;
-    line-height: 30px;
+    line-height: 20px;
     margin-bottom: 0;
     font-weight: 300;
+    font-family: 'Caveat Brush', cursive;
 }
 
 #contact-form ul {
